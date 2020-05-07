@@ -55,7 +55,7 @@ address:
   - line: 서울시 구로구 오류동
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '무엇을 넣을까 깃주소를 넣을까 <a href="https://github.com/xinseon">Go to GitHub!</a>.'
 
 # Build settings
 markdown: kramdown
